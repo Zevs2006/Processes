@@ -1,0 +1,5 @@
+05.09.2024 4:59:13: Процесс C:\Program Files (x86)\Microsoft Office\root\Office16\VISIO.EXE был запущен.
+05.09.2024 5:00:24: Процесс C:\Users\Student406-11\AppData\Local\Programs\Microsoft VS Code\Code.exe был запущен.
+05.09.2024 5:00:50: Процесс C:\Program Files (x86)\Microsoft Office\root\Office16\VISIO.EXE был запущен.
+05.09.2024 5:09:37: Процесс browser (ID: 12196) был завершен.
+05.09.2024 5:14:05: Процесс notepad.exe был запущен.
